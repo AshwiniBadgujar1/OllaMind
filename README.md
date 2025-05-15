@@ -12,12 +12,11 @@ Ollamind is a simple Streamlit app that integrates the Ollama model to generate 
 ### Prerequisites
 Make sure you have Python 3.7 or higher installed. You also need the following dependencies:
 
-- `faiss-cpu`
-- `sentence-transformers`
-- `fastapi`
-- `uvicorn`
-- `numpy`
-- `protobuf`
+streamlit
+requests
+speechrecognition
+pyttsx3
+langdetect
 
 ### Installation
 
